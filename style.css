@@ -1,6 +1,6 @@
 .navbar-custom {
-    background-color: rgb(8, 8, 220);
-    border-bottom: 10px solid gold;
+    background-color: #042b66;
+    border-bottom: 10px solid #f9b228;
 }
 
 .carouselimgs {
@@ -12,7 +12,10 @@
 
 .mustangsborder {
     box-shadow:
-  0 0 0 5px rgb(8, 8, 220),
-  0 0 0 10px gold;
+  0 0 0 5px  #042b66,
+  0 0 0 10px #f9b228;
 }
 
+.welcomediv1 {
+    height: 200px;
+}
