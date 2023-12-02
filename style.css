@@ -1,0 +1,11 @@
+.navbar-custom {
+    background-color: blue;
+    border-bottom: 10px solid yellow;
+}
+
+.carouselimgs {
+    height: 800px;
+    width: 2100px;
+    text-align: center;
+    justify-content: center;
+}
