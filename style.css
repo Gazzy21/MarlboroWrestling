@@ -1,6 +1,6 @@
 .navbar-custom {
-    background-color: blue;
-    border-bottom: 10px solid yellow;
+    background-color: rgb(8, 8, 220);
+    border-bottom: 10px solid gold;
 }
 
 .carouselimgs {
@@ -9,3 +9,10 @@
     text-align: center;
     justify-content: center;
 }
+
+.mustangsborder {
+    box-shadow:
+  0 0 0 5px rgb(8, 8, 220),
+  0 0 0 10px gold;
+}
+
